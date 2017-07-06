@@ -1,0 +1,93 @@
+{
+  "item": {
+    "system": {
+      "id": "d347ed2a-50f6-43a2-acff-4fdb08f092f2",
+      "name": "Vánoční akce v1",
+      "codename": "vanocni_akce_v1",
+      "type": "ps_test_v1",
+      "sitemap_locations": [],
+      "last_modified": "2017-06-13T07:59:18.734735Z"
+    },
+    "elements": {
+      "text_label": {
+        "type": "text",
+        "name": "Text label",
+        "value": "Nadpis - Vánoční akce"
+      },
+      "rich_text_label": {
+        "type": "rich_text",
+        "name": "Rich text label",
+        "images": {},
+        "links": {},
+        "modular_content": [],
+        "value": "<ul>\n  <li><strong>Americký prezident Donald Trump čelí žalobě státu Maryland a hlavního města Washingtonu kvůli zahraničním finančním operacím svých rodinných podniků.</strong></li>\n  <li><strong>Trump podle nich porušuje ústavu, jelikož stále udržuje vazby na své hotely a kluby.<br>\nPřed nástupem do prezidentské funkce Trump slíbil, že odejde z čela všech svých podniků, podle žalobců se však od podniků zcela neodstřihl.</strong></li>\n  <li><strong>Donald Trump čelí žalobě kvůli zahraničním finančním operacím jeho rodinných podniků.<br>\nDonald Trump čelí žalobě kvůli zahraničním finančním operacím jeho rodinných podniků.<br>\nautor: ČTK/AP</strong><br>\n</li>\n</ul>\n<p>Americký stát Maryland a federální distrikt hlavního města Washingtonu v pondělí zažalovaly prezidenta Donalda Trumpa kvůli zahraničním finančním operacím jeho rodinných podniků. Podle úřadů samosprávy porušuje Trump ústavu tím, že stále udržuje vazby na své hotely či kluby, které od jeho nástupu do funkce spravuje fond vedený jeho dvěma syny. Bílý dům oponoval slovy, že Trumpovo jednání se ústavě neprotiví.</p>"
+      },
+      "number_label": {
+        "type": "number",
+        "name": "Number label",
+        "value": 2443
+      },
+      "asset_label": {
+        "type": "asset",
+        "name": "Asset label",
+        "value": [
+          {
+            "name": "banner-default.jpg",
+            "type": "image/jpeg",
+            "size": "75424",
+            "description": "undef",
+            "url": "https://preview-assets.kenticocloud.com:443/60f2c2fc-d65d-4131-9649-ccb767507856/55caecc2-400c-4ee3-91c3-0f7f067414ec/banner-default.jpg"
+          },
+          {
+            "name": "porlex-tall-ceramic-burr-grinder.jpg",
+            "type": "image/jpeg",
+            "size": "37996",
+            "description": "undef",
+            "url": "https://preview-assets.kenticocloud.com:443/60f2c2fc-d65d-4131-9649-ccb767507856/a58bf56b-962e-44dd-9fae-b562e3322119/porlex-tall-ceramic-burr-grinder.jpg"
+          }
+        ]
+      },
+      "modular_label": {
+        "type": "modular_content",
+        "name": "Modular label",
+        "value": [
+          "untitled_content_item_0000000"
+        ]
+      }
+    }
+  },
+  "modular_content": {
+    "untitled_content_item_0000000": {
+      "system": {
+        "id": "2de93e87-909f-45c0-92e4-dd76f4182645",
+        "name": "Untitled content item",
+        "codename": "untitled_content_item_0000000",
+        "type": "common_template_parameters",
+        "sitemap_locations": [],
+        "last_modified": "2017-06-13T07:59:46.6653886Z"
+      },
+      "elements": {
+        "priority": {
+          "type": "number",
+          "name": "Priority",
+          "value": 1
+        },
+        "validity_from": {
+          "type": "date_time",
+          "name": "Validity from",
+          "value": "2017-07-01T00:00:00Z"
+        },
+        "validity_to": {
+          "type": "date_time",
+          "name": "Validity to",
+          "value": "2017-07-31T00:00:00Z"
+        },
+        "campaign_name": {
+          "type": "text",
+          "name": "Campaign name",
+          "value": "Superkampaň"
+        }
+      }
+    }
+  }
+}

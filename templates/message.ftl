@@ -7,7 +7,7 @@
   JSON test:
   string: ${kentico} <br>
 -->
-<#assign jsonKentico = kentico?eval>
+<#assign jsonKentico = kenticoDefinition?eval>
 <#list jsonKentico.item.elements as item_type, item>
 <#-- ${item_type}  -->
     <#if item.type = "text">

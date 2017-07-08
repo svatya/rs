@@ -12,7 +12,7 @@
       "text_label": {
         "type": "text",
         "name": "Text label",
-        "value": "Nadpis - Vánoční akce"
+        "value": "Nadpis - ${mainTitle}"
       },
       "rich_text_label": {
         "type": "rich_text",
@@ -20,7 +20,7 @@
         "images": {},
         "links": {},
         "modular_content": [],
-        "value": "<ul>\n  <li><strong>Americký prezident Donald Trump čelí žalobě státu Maryland a hlavního města Washingtonu kvůli zahraničním finančním operacím svých rodinných podniků.</strong></li>\n  <li><strong>Trump podle nich porušuje ústavu, jelikož stále udržuje vazby na své hotely a kluby.<br>\nPřed nástupem do prezidentské funkce Trump slíbil, že odejde z čela všech svých podniků, podle žalobců se však od podniků zcela neodstřihl.</strong></li>\n  <li><strong>Donald Trump čelí žalobě kvůli zahraničním finančním operacím jeho rodinných podniků.<br>\nDonald Trump čelí žalobě kvůli zahraničním finančním operacím jeho rodinných podniků.<br>\nautor: ČTK/AP</strong><br>\n</li>\n</ul>\n<p>Americký stát Maryland a federální distrikt hlavního města Washingtonu v pondělí zažalovaly prezidenta Donalda Trumpa kvůli zahraničním finančním operacím jeho rodinných podniků. Podle úřadů samosprávy porušuje Trump ústavu tím, že stále udržuje vazby na své hotely či kluby, které od jeho nástupu do funkce spravuje fond vedený jeho dvěma syny. Bílý dům oponoval slovy, že Trumpovo jednání se ústavě neprotiví.</p>"
+        "value": "<ul>\n  <li><strong>Americký prezident ${nameOfThePresident} čelí žalobě státu ${state} a hlavního města Washingtonu kvůli zahraničním finančním operacím svých rodinných podniků.</strong></li>\n  <li><strong>Trump podle nich porušuje ústavu, jelikož stále udržuje vazby na své hotely a kluby.<br>\nPřed nástupem do prezidentské funkce Trump slíbil, že odejde z čela všech svých podniků, podle žalobců se však od podniků zcela neodstřihl.</strong></li>\n  <li><strong>Donald Trump čelí žalobě kvůli zahraničním finančním operacím jeho rodinných podniků.<br>\nDonald Trump čelí žalobě kvůli zahraničním finančním operacím jeho rodinných podniků.<br>\nautor: ČTK/AP</strong><br>\n</li>\n</ul>\n<p>Americký stát Maryland a federální distrikt hlavního města Washingtonu v pondělí zažalovaly prezidenta Donalda Trumpa kvůli zahraničním finančním operacím jeho rodinných podniků. Podle úřadů samosprávy porušuje Trump ústavu tím, že stále udržuje vazby na své hotely či kluby, které od jeho nástupu do funkce spravuje fond vedený jeho dvěma syny. Bílý dům oponoval slovy, že Trumpovo jednání se ústavě neprotiví.</p>"
       },
       "number_label": {
         "type": "number",
